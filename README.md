@@ -1,5 +1,5 @@
-# Reinforcement Learning 
-RL based Fine Tuning of GPT Models
+# Reinforcement Learning Fine Tuning (RLFT)
+RL based Fine Tuning of GPT Models for my own understanding and sharing it with others as a part of Giving-back series.
 
 
 ## Building Nano-GPT
